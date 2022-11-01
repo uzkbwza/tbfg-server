@@ -26,7 +26,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="tbgf-server"
+config/name="tbfg-server"
 run/main_scene="res://Server.tscn"
 config/icon="res://icon.png"
 
