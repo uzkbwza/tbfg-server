@@ -18,16 +18,10 @@ _global_script_classes=[ {
 "class": "Player",
 "language": "GDScript",
 "path": "res://player.gd"
-}, {
-"base": "Node",
-"class": "ProfanityFilter",
-"language": "GDScript",
-"path": "res://profanity_filter.gd"
 } ]
 _global_script_class_icons={
 "Match": "",
-"Player": "",
-"ProfanityFilter": ""
+"Player": ""
 }
 
 [application]
